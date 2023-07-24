@@ -1,0 +1,12 @@
+//going to create npm inti project
+by saying : npm init -y
+
+//going to install popular websocket server "ws";
+by saing : npm i ws
+
+//we can make new desrectory in server that in "index.js".
+
+we are writing our server content in index.js
+1.include module ws 
+
+//we started sever by saing node index.js in terminal
